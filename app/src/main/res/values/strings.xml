@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNFT</string>
+    <string name="collection_page_label">收藏品列表頁面</string>
+    <string name="collection_details_page_label">收藏品細節頁面</string>
+    <string name="collection_page">my collections</string>
+    <string name="collection_name">collection name</string>
+    <string name="permalink">permalink</string>
+    <string name="loading_please_wait">loading…</string>
+</resources>

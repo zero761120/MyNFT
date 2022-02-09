@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_size">56dp</dimen>
+    <dimen name="common_padding_0">8dp</dimen>
+    <dimen name="common_padding_1">16dp</dimen>
+    <dimen name="common_padding_2">32dp</dimen>
+    <dimen name="common_margin_bottom">100dp</dimen>
+    <dimen name="common_text_size">20sp</dimen>
+    <dimen name="common_text_size_small">12sp</dimen>
+</resources>
